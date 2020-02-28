@@ -2,7 +2,7 @@
 
 The maps are the latest version of Trimble MAPS Javascript SDK using vector tiles and WebGL. You will need an API key to use this sample. https://info.maps.trimble.com/get-an-api-key
 
-Put your API Key in `app.component.html`
+Put your API Key in `src/app/app.component.html`
 
 More information about our APIs and SDKs can be found at https://developer.trimblemaps.com
 
